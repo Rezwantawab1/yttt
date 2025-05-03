@@ -1,8 +1,7 @@
 import yt_dlp
 import telebot
 from telebot.types import InlineKeyboardButton , InlineKeyboardMarkup
-from keep_alive import keep_alive
-keep_alive()
+
 
 
 api_key = "7801225750:AAEqJnAvQgGI7pXXKemNkW3yp4qrdz1JOIU"
